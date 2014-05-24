@@ -16,10 +16,9 @@ I also tried to create an APK with APK FACTORY from https://www.npmjs.org/packag
 
 simpleGPS/platforms/firefoxos/www$ mozilla-apk-cli ./ ./simpleGPS.apk
 
-setting --overrideManifest to https://simplegpsgabriele.apk.cli.firefox.com/manifest.webapp
+setting --overrideManifest to https://simplegpsgabriele.apk.cli.firefox.com/manifestebapp
 
-Building with https://controller-review.apk.firefox.com
-
+Building with https://controller-review.apk.firefox.c
 Generator response status code was 504
 
-Since loqui.im apk gets generated just fine by mozilla-apk-cli (you can find loqui.im code in github), mozilla probably rejects the js code of this app.
+Since loqui.im apk gets generated just fine by mozilla-apkmozilla p
